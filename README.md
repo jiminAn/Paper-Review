@@ -33,8 +33,6 @@
 | Conference | PLMs    | Title                                                        | Links                                                        |
 | ---------- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | EMNLP '23  | CodeT5+ | CodeT5+: Open Code Large Language Models for Code Understanding and Generation | [iislab semniar](http://iislab.skku.edu/iish/index.php?_filter=search&mid=seminar&search_keyword=%EC%A7%80%EB%AF%BC&search_target=nick_name&document_srl=57581) |
-| arXiv '19  | GPT2    | Language Models are Unsupervised Multitask Learners          | [notion](https://www.notion.so/Language-Models-are-Unsupervised-Multitask-Learners-0f2a5399f9e449d7a175655c301d03a7?pvs=4) |
-| arXiv '18  | GPT1    | Improving Language Understanding by Generative Pre-training  | [notion](https://www.notion.so/Improving-Language-Understanding-by-Generative-Pre-training-f19087f2d9664449af4b14214dfe509f?pvs=4) |
 
 
 
