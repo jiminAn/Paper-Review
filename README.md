@@ -2,7 +2,7 @@
 
 # Paper Review
 
-- 자연어(Natural Language, NL)와 프로그래밍 언어(Programming Language, PL) 관련 논문을 읽고, 한국어로 정리해둔 레포입니다. 제가 관심있는 주제 위주로 읽고 있으며 요약이 완료된 논문은 **노션링크/랩 세미나 발표** 형태로 공유될 예정입니다.
+- 인공지능 분야의 자연어(Natural Language, NL) & 프로그래밍 언어(Programming Language, PL) 관련 논문을 읽고, 한국어로 정리해둔 레포입니다. 제가 관심있는 주제 위주로 읽고 있으며 요약이 완료된 논문은 **노션링크/랩 세미나 발표** 형태로 공유될 예정입니다.
 
 ### 주요 관심 주제
   1. Efficient-Learning: Prompt Learning, Parameter Efficient Fine-tuning(PEFT), Few-shot learning
