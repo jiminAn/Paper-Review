@@ -12,10 +12,11 @@
 
 
 
-## 1. Efficient-Learning
+## 1. Efficient-Learning & LLMs inference
 
 | Conference | initals    | Title                                                        | Links                                                        |
 | ---------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| NeurIPS '23    | ToT  | Tree of Thoughts: Deliberate Problem Solving with Large Language Models                     | [iislab seminar](http://iislab.skku.edu/iish/seminar/57992) |
 | ACL '22    | promptNMT  | Prompt-Driven Neural Machine Translation                     | [notion](https://www.notion.so/Prompt-Driven-Neural-Machine-Translation-e3bd84d2a3ed4f198b9ab5bafd33d88a?pvs=4) |
 | ACL '22    | ProtoVerb  | Prototypical Verbalizer for Prompt-based Few-shot Tuning     | [notion](https://www.notion.so/Prototypical-Verbalizer-for-Prompt-based-Few-shot-Tuning-ce9d080187724841885b885333b74d4c?pvs=4), [iislab seminar](http://iislab.skku.edu/iish/index.php?_filter=search&mid=seminar&search_keyword=%EC%A7%80%EB%AF%BC&search_target=nick_name&document_srl=56572) |
 | ACL '22    | PERFECT    | PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models | [notion](https://www.notion.so/PERFECT-Prompt-free-and-Efficient-Few-shot-Learning-with-Language-Models-cdc1c45bd5bd438c902c4c66aef6ec33?pvs=4), [iislab seminar](http://iislab.skku.edu/iish/index.php?_filter=search&mid=seminar&search_keyword=%EC%A7%80%EB%AF%BC&search_target=nick_name&document_srl=56676) |
